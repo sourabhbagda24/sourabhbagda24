@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:003366,100:00cfff&height=220&section=header&text=SOURABH%20SHARMA&fontSize=50&fontColor=00cfff&animation=fadeIn&fontAlignY=38&desc=AI+Developer+%7C+ML+Engineer+%7C+Python+Architect&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:003366,100:00cfff&height=220&section=header&text=SOURABH%20SHARMA&fontSize=50&fontColor=00cfff&animation=fadeIn&fontAlignY=38&desc=AI+Developer+%7C+ML+Engineer+%7C+Gen+AI&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&lines=🤖+AI+Developer+%26+ML+Engineer;⚡+Python+%7C+LangChain+%7C+LLMs;🧠+Building+Agentic+AI+Systems;🚀+RAG+%7C+GenAI+%7C+Open+Source;📊+Trading+AI+%7C+Quant+Experiments" alt="Typing SVG"/>
