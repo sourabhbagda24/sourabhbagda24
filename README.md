@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="assets/header.svg" width="100%" alt="Sourabh Sharma"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020b18,50:003a70,100:00cfff&height=270&section=header&text=SOURABH%20SHARMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=00cfff&strokeWidth=1&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Generative%20AI&descAlignY=64&descSize=18&descColor=a8ecff" width="100%" alt="Sourabh Sharma"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=780&height=50&lines=🤖+AI+Developer+%26+ML+Engineer;⚡+Python+%7C+LangChain+%7C+LLMs;🧠+Building+Agentic+AI+Systems;🔌+MCP+%7C+Voice+AI+%7C+Secure+AI;🚀+RAG+%7C+GenAI+%7C+Open+Source;📈+Trading+AI+%7C+Quant+Experiments" alt="Typing SVG"/>
 
@@ -22,11 +22,11 @@
 
 <br/><br/>
 
-<img src="assets/marquee.svg" width="100%" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,nodejs,react,vite,ts,docker,aws,gcp,azure,postgres,mysql,bash,r,git,github&theme=dark&perline=19" alt="tech stack"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <div align="center">
@@ -70,7 +70,7 @@ class SourabhSharma:
 
 <br clear="right"/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ EXPERIENCE ═══════════════ -->
 <div align="center">
@@ -86,7 +86,7 @@ class SourabhSharma:
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
@@ -189,11 +189,17 @@ A **voice chatbot with multiple MCP servers** and a full RAG pipeline (ingestion
 </tr>
 </table>
 
+<a href="https://github.com/sourabhbagda24/secure_ai_gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=secure_ai_gateway&bg_color=020b18&title_color=00cfff&text_color=ffffff&icon_color=00cfff&border_color=0b3d5c&border_radius=16" height="120"/></a>
+<a href="https://github.com/sourabhbagda24/Hinglish-AI-Receptionist-main"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=Hinglish-AI-Receptionist-main&bg_color=020b18&title_color=00cfff&text_color=ffffff&icon_color=00cfff&border_color=0b3d5c&border_radius=16" height="120"/></a>
+<a href="https://github.com/sourabhbagda24/MCP_SERVER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=MCP_SERVER&bg_color=020b18&title_color=00cfff&text_color=ffffff&icon_color=00cfff&border_color=0b3d5c&border_radius=16" height="120"/></a>
+
+<br/>
+
 <sub>⭐ More experiments live in <a href="https://github.com/sourabhbagda24?tab=repositories">my repositories</a></sub>
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ CURRENT WORK ═══════════════ -->
 <div align="center">
@@ -215,7 +221,7 @@ sourabh@ai-lab:~$ cat active_projects.log
 sourabh@ai-lab:~$ █
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ SKILLS ═══════════════ -->
 <div align="center">
@@ -302,7 +308,7 @@ sourabh@ai-lab:~$ █
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ CORE CONCEPTS ═══════════════ -->
 <div align="center">
@@ -347,7 +353,7 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ IN-PROGRESS PROJECTS ═══════════════ -->
 <div align="center">
@@ -381,7 +387,7 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ ROADMAP ═══════════════ -->
 <div align="center">
@@ -435,7 +441,7 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
@@ -461,7 +467,7 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ GAMES & ANIMATIONS ═══════════════ -->
 <div align="center">
@@ -569,7 +575,7 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
 <div align="center">
@@ -591,7 +597,7 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,25:00cfff,50:8a6bff,75:00cfff,100:020b18&height=3" width="100%"/>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
@@ -613,6 +619,6 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 *Stay curious. Keep building. Ship AI.*
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:003366,100:020b18&height=150&section=footer&text=Stay%20curious%20%C2%B7%20Keep%20building%20%C2%B7%20Ship%20AI&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
