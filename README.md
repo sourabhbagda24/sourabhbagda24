@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020b18,50:003366,100:00cfff&height=260&section=header&text=SOURABH%20SHARMA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=00cfff&strokeWidth=1&desc=AI%20Developer%20·%20ML%20Engineer%20·%20Generative%20AI&descAlignY=62&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Sourabh Sharma"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=780&height=50&lines=🤖+AI+Developer+%26+ML+Engineer;⚡+Python+%7C+LangChain+%7C+LLMs;🧠+Building+Agentic+AI+Systems;🔌+MCP+%7C+Voice+AI+%7C+Secure+AI;🚀+RAG+%7C+GenAI+%7C+Open+Source;📈+Trading+AI+%7C+Quant+Experiments" alt="Typing SVG"/>
 
@@ -20,13 +20,17 @@
 <a href="mailto:sourabhbagda9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-020b18?style=for-the-badge&logo=gmail&logoColor=00cfff&labelColor=003366&color=00cfff"/></a>
 <a href="https://www.hackerrank.com/profile/sourabhbagda11"><img src="https://img.shields.io/badge/HACKERRANK-020b18?style=for-the-badge&logo=hackerrank&logoColor=00cfff&labelColor=003366&color=00cfff"/></a>
 
+<br/><br/>
+
+<img src="assets/marquee.svg" width="100%" alt="tech stack"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+whoami" alt="whoami"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+whoami" alt="whoami"/>
 </div>
 
 <img align="right" alt="AI" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
@@ -66,11 +70,11 @@ class SourabhSharma:
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ EXPERIENCE ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+experience+--timeline" alt="experience"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+experience+--timeline" alt="experience"/>
 
 <br/>
 
@@ -82,11 +86,11 @@ class SourabhSharma:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+featured_projects+--shipped" alt="featured projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+featured_projects+--shipped" alt="featured projects"/>
 
 <br/>
 
@@ -189,11 +193,11 @@ A **voice chatbot with multiple MCP servers** and a full RAG pipeline (ingestion
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ CURRENT WORK ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+current_work.sh" alt="current work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+current_work.sh" alt="current work"/>
 </div>
 
 ```bash
@@ -211,11 +215,11 @@ sourabh@ai-lab:~$ cat active_projects.log
 sourabh@ai-lab:~$ █
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ SKILLS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+skills+--all" alt="skills"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+skills+--all" alt="skills"/>
 </div>
 
 <table align="center">
@@ -298,11 +302,56 @@ sourabh@ai-lab:~$ █
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
+
+<!-- ═══════════════ CORE CONCEPTS ═══════════════ -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+core_concepts+--studied" alt="core concepts"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📦 &nbsp;RAG
+`Chunking` `Embeddings` `Hybrid Search (BM25 + Vector)` `Reranking` `Query Rewriting` `Multi-Query` `Agentic RAG` `Corrective RAG` `Evaluation: Hit@k · MRR · nDCG`
+
+#### 🎛️ &nbsp;Fine-tuning LLMs
+`SFT / Instruction Tuning` `LoRA` `QLoRA` `PEFT` `Quantization (4-bit / 8-bit)` `Dataset Preparation` `HF Trainer / TRL` `RLHF` `DPO`
+
+#### 🤖 &nbsp;Transformers
+`Self-Attention` `Multi-Head Attention` `Positional Encoding` `Encoder–Decoder` `Tokenization (BPE)` `Layer Norm` `Residual Connections` `BERT` `GPT` `T5`
+
+#### 🔌 &nbsp;MCP Servers
+`FastMCP` `Tools · Resources · Prompts` `Transports: stdio · HTTP` `JWT Auth` `RBAC` `Audit Logging` `Tool-Poisoning Guard`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 &nbsp;Machine Learning
+`Linear Regression` `Logistic Regression` `Decision Tree` `Random Forest` `SVM` `KNN` `Naive Bayes` `K-Means` `PCA` `XGBoost` `Gradient Boosting` `Cross-Validation` `Bias–Variance` `Feature Engineering` `Precision · Recall · F1 · ROC-AUC`
+
+#### 🧠 &nbsp;Deep Learning
+`ANN / MLP` `CNN` `RNN` `LSTM` `GRU` `Autoencoders` `GAN` `Backpropagation` `Dropout` `BatchNorm`
+
+#### ⚡ &nbsp;Optimizers
+`SGD` `Momentum` `RMSProp` `Adagrad` `Adam` `AdamW` `LR Schedulers`
+
+#### 🔥 &nbsp;Activations & Losses
+`ReLU` `Leaky ReLU` `Sigmoid` `Tanh` `Softmax` `GELU` `SiLU / Swish` `MSE` `Cross-Entropy`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ IN-PROGRESS PROJECTS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+projects+--active" alt="projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+projects+--active" alt="projects"/>
 
 <br/>
 
@@ -332,11 +381,11 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ ROADMAP ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+roadmap+--future" alt="roadmap"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+roadmap+--future" alt="roadmap"/>
 
 <br/>
 
@@ -386,21 +435,21 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+stats+--github" alt="stats"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+stats+--github" alt="stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhbagda24&show_icons=true&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&count_private=true&border_radius=16" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhbagda24&show_icons=true&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&count_private=true&border_radius=16&border_color=0b3d5c" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbagda24&layout=compact&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&text_color=ffffff&langs_count=8&border_radius=16" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbagda24&layout=compact&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&text_color=ffffff&langs_count=8&border_radius=16&border_color=0b3d5c" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhbagda24&theme=blue-green&hide_border=true&background=020b18&stroke=00cfff&ring=00cfff&fire=00cfff&currStreakLabel=00cfff&border_radius=16"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhbagda24&theme=blue-green&hide_border=true&background=020b18&stroke=00cfff&ring=00cfff&fire=00cfff&currStreakLabel=00cfff&border_radius=16&border_color=0b3d5c"/>
 
 <br/>
 
@@ -412,11 +461,11 @@ sourabh@ai-lab:~$ █
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ GAMES & ANIMATIONS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=620&height=40&lines=%3E_+games+%26+animations+--play" alt="games"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=620&height=40&lines=%3E_+games+%26+animations+--play" alt="games"/>
 
 <sub>🕹️ &nbsp;All animations are live and auto-updating via GitHub Actions</sub>
 
@@ -520,11 +569,11 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+portfolio+--preview" alt="portfolio"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+portfolio+--preview" alt="portfolio"/>
 
 <br/>
 
@@ -542,11 +591,11 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=420&height=40&lines=%3E_+connect+--now" alt="connect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=600&letterSpacing=1px&color=00CFFF&center=true&vCenter=true&width=420&height=40&lines=%3E_+connect+--now" alt="connect"/>
 
 <br/>
 
@@ -564,6 +613,6 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 *Stay curious. Keep building. Ship AI.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:003366,100:020b18&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
