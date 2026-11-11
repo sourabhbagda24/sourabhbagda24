@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020b18,50:003366,100:00cfff&height=260&section=header&text=SOURABH%20SHARMA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=00cfff&strokeWidth=1&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20Generative%20AI&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020b18,35:2a0a5e,70:003366,100:00cfff&height=280&section=header&text=SOURABH%20SHARMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&stroke=00cfff&strokeWidth=2&desc=%E2%9A%A1%20Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Generative%20AI%20%E2%9A%A1&descAlignY=62&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=860&height=50&lines=📊+Data+Science+Intern+%40+ReGex+Software;🤖+AI+Developer+%26+ML+Engineer;⚡+Python+%7C+SQL+%7C+PySpark+%7C+Databricks;🧠+LangChain+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;🔐+Secure+AI+Gateway+·+OWASP+LLM+Top+10;🗣️+Hinglish+Voice+AI+·+Pipecat+WebRTC;📈+Trading+AI+%7C+Quant+Experiments" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=800&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%3E+initializing+sourabh.exe+...+%E2%9C%85;📊+Data+Science+Intern+%40+ReGex+Software;🤖+AI+Developer+%26+ML+Engineer;⚡+Python+%7C+SQL+%7C+PySpark+%7C+Databricks;🧠+LangChain+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;🔐+Secure+AI+Gateway+·+OWASP+LLM+Top+10;🗣️+Hinglish+Voice+AI+·+Pipecat+WebRTC;📈+Trading+AI+%7C+Quant+Experiments" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00cfff?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=020b18"/>
+<img src="https://img.shields.io/badge/●_STATUS-OPEN_TO_WORK-00ff9d?style=for-the-badge&labelColor=020b18"/>
 <img src="https://img.shields.io/badge/BASED_IN-JAIPUR_🇮🇳-00cfff?style=for-the-badge&labelColor=020b18"/>
-<img src="https://img.shields.io/badge/ROLE-DATA_SCIENTIST_·_AI_DEVELOPER-00cfff?style=for-the-badge&logo=openai&logoColor=white&labelColor=020b18"/>
+<img src="https://img.shields.io/badge/ROLE-DATA_SCIENTIST_·_AI_DEVELOPER-7b2ff7?style=for-the-badge&logo=openai&logoColor=white&labelColor=020b18"/>
 <img src="https://img.shields.io/badge/INTERN-REGEX_SOFTWARE-00cfff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=020b18"/>
 <img src="https://komarev.com/ghpvc/?username=sourabhbagda24&style=for-the-badge&color=00cfff&label=PROFILE+VIEWS&labelColor=020b18"/>
 
@@ -23,11 +23,30 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:7b2ff7,100:020b18&height=50&section=header&animation=twinkling" width="100%"/>
+
+<!-- ═══════════════ BOOT SEQUENCE ═══════════════ -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=460&height=40&lines=%3E_+system.boot()" alt="boot"/>
+</div>
+
+```ansi
+┌─[sourabh@ai-lab]─[~/profile]
+└──╼ $ ./boot.sh
+
+  [  OK  ] Loading neural modules ............ LangChain · HuggingFace · PyTorch
+  [  OK  ] Mounting data layer ............... Pandas · SQL · PySpark · Databricks
+  [  OK  ] Connecting cloud .................. Azure Data Factory · AWS · GCP
+  [  OK  ] Starting security guard ........... OWASP LLM Top 10 · Red-Team Suite
+  [  OK  ] Opening voice channel ............. Pipecat · WebRTC · Hinglish 🗣️
+  [ LIVE ] Status ............................ OPEN TO WORK ⚡
+```
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+whoami" alt="whoami"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=400&height=40&lines=%3E_+whoami" alt="whoami"/>
 </div>
 
 <img align="right" alt="AI" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
@@ -77,26 +96,42 @@ class SourabhSharma:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
 
+<!-- ═══════════════ HUD STATS ═══════════════ -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=460&height=40&lines=%3E_+hud.stats()" alt="hud"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏢_ROLE-Data_Science_Intern-020b18?style=for-the-badge&labelColor=003366&color=00cfff"/>
+<img src="https://img.shields.io/badge/📦_REPOS-55+-020b18?style=for-the-badge&labelColor=003366&color=00cfff"/>
+<img src="https://img.shields.io/badge/🛡️_ATTACKS_BLOCKED-20%2F20-020b18?style=for-the-badge&labelColor=003366&color=00ff9d"/>
+<img src="https://img.shields.io/badge/🧪_DEFENCES_TESTED-46-020b18?style=for-the-badge&labelColor=003366&color=00cfff"/>
+<img src="https://img.shields.io/badge/🗣️_LANGUAGE-Hinglish_AI-020b18?style=for-the-badge&labelColor=003366&color=7b2ff7"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,18&height=2" width="100%"/>
+
 <!-- ═══════════════ EXPERIENCE ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+experience+--log" alt="experience"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=460&height=40&lines=%3E_+experience+--log" alt="experience"/>
 
 <br/>
 
 | 🏢 Company | 💼 Role | 🛠️ Stack | 📅 Status |
 |:----------:|:--------|:--------:|:---------:|
-| **ReGex Software** | Data Science Intern — building & optimizing data workflows and pipelines | `Python` `SQL` `Azure Data Factory` `PySpark` `Databricks` | ![](https://img.shields.io/badge/CURRENT-00cfff?style=flat-square&labelColor=003366) |
+| **ReGex Software** | Data Science Intern — building & optimizing data workflows | `Python` `SQL` `Azure Data Factory` `PySpark` `Databricks` | ![](https://img.shields.io/badge/●_CURRENT-00ff9d?style=flat-square&labelColor=020b18) |
 
 </div>
 
-#### 🔄 &nbsp;Data Pipeline I Work With
+#### 🔄 &nbsp;Data Stack I Work With
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#003366','primaryTextColor':'#ffffff','primaryBorderColor':'#00cfff','lineColor':'#00cfff','secondaryColor':'#020b18','tertiaryColor':'#020b18','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0a3d','primaryTextColor':'#ffffff','primaryBorderColor':'#00cfff','lineColor':'#7b2ff7','secondaryColor':'#020b18','tertiaryColor':'#020b18','fontFamily':'monospace'}}}%%
 flowchart LR
-    A[("🗃️ Raw Data<br/>SQL · CSV · APIs")] --> B["☁️ Azure Data Factory<br/>Ingest & Orchestrate"]
-    B --> C["⚡ Databricks + PySpark<br/>Clean · Transform · Optimize"]
-    C --> D[("📦 Curated Tables")]
+    A[("🗃️ Data Sources<br/>SQL · Files")] --> B["☁️ Azure Data Factory"]
+    B --> C["⚡ Databricks + PySpark"]
+    C --> D[("📦 Clean Tables")]
     D --> E["🧠 ML / Analysis<br/>Pandas · Scikit-Learn"]
     D --> F["📊 Dashboards<br/>Power BI · Tableau"]
 ```
@@ -105,7 +140,7 @@ flowchart LR
 
 <!-- ═══════════════ CURRENT WORK ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+current_work.sh" alt="current work"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&height=40&lines=%3E_+current_work.sh" alt="current work"/>
 </div>
 
 ```bash
@@ -127,8 +162,19 @@ flowchart LR
 
 <!-- ═══════════════ SKILLS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=400&height=40&lines=%3E_+skills+--all" alt="skills"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=400&height=40&lines=%3E_+skills+--all" alt="skills"/>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,ts,bash,pandas,numpy,sklearn,tensorflow,pytorch&theme=dark&perline=11"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,docker,azure,aws,gcp,git,github,githubactions,vscode&theme=dark&perline=11"/>
+</a>
+
 </div>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -189,7 +235,6 @@ flowchart LR
 #### ☁️ &nbsp;Cloud, DevOps & Big Data
 <img src="https://img.shields.io/badge/AWS-020b18?style=flat-square&logo=amazonaws&logoColor=00cfff&labelColor=003366"/>
 <img src="https://img.shields.io/badge/GCP-020b18?style=flat-square&logo=googlecloud&logoColor=00cfff&labelColor=003366"/>
-<img src="https://img.shields.io/badge/Azure-020b18?style=flat-square&logo=microsoftazure&logoColor=00cfff&labelColor=003366"/>
 <img src="https://img.shields.io/badge/Docker-020b18?style=flat-square&logo=docker&logoColor=00cfff&labelColor=003366"/>
 <img src="https://img.shields.io/badge/Apache_Spark-020b18?style=flat-square&logo=apachespark&logoColor=00cfff&labelColor=003366"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-020b18?style=flat-square&logo=githubactions&logoColor=00cfff&labelColor=003366"/>
@@ -208,19 +253,19 @@ flowchart LR
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+projects+--featured" alt="featured projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=520&height=40&lines=%3E_+projects+--featured" alt="featured projects"/>
 
 <br/>
 
 <a href="https://github.com/sourabhbagda24/secure_ai_gateway">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=secure_ai_gateway&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&border_radius=16" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=secure_ai_gateway&theme=radical&hide_border=false&bg_color=020b18&title_color=00F0FF&icon_color=7b2ff7&text_color=ffffff&border_color=00cfff&border_radius=16" width="48%"/>
 </a>
 <a href="https://github.com/sourabhbagda24/Hinglish-AI-Receptionist-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=Hinglish-AI-Receptionist-main&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&border_radius=16" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=Hinglish-AI-Receptionist-main&theme=radical&hide_border=false&bg_color=020b18&title_color=00F0FF&icon_color=7b2ff7&text_color=ffffff&border_color=00cfff&border_radius=16" width="48%"/>
 </a>
 <br/>
 <a href="https://github.com/sourabhbagda24/Data__Science__Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=Data__Science__Learning&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&border_radius=16" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabhbagda24&repo=Data__Science__Learning&theme=radical&hide_border=false&bg_color=020b18&title_color=00F0FF&icon_color=7b2ff7&text_color=ffffff&border_color=00cfff&border_radius=16" width="48%"/>
 </a>
 
 </div>
@@ -272,7 +317,7 @@ Real-time voice agent: speak in the browser, the AI answers back over WebRTC.
 #### 🔁 &nbsp;Secure AI Gateway — Request Flow
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#003366','primaryTextColor':'#ffffff','primaryBorderColor':'#00cfff','lineColor':'#00cfff','secondaryColor':'#020b18','tertiaryColor':'#020b18','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0a3d','primaryTextColor':'#ffffff','primaryBorderColor':'#00cfff','lineColor':'#7b2ff7','secondaryColor':'#020b18','tertiaryColor':'#020b18','fontFamily':'monospace'}}}%%
 flowchart LR
     U([👤 User]) --> A[Auth + AuthZ]
     A --> R[Rate Limit<br/>Token Budget]
@@ -292,17 +337,17 @@ flowchart LR
 
 | 🚀 Project | 📝 Description | 🛠️ Tech | 📊 Status |
 |:----------:|:---------------|:-------:|:---------:|
-| 🔐 **Secure AI Gateway** | OWASP-aligned security pipeline for LLM/RAG/agent apps with red-team suite | `Python` `Pytest` `Docker` | ![](https://img.shields.io/badge/SHIPPED-00cfff?style=flat-square&labelColor=003366) |
-| 🗣️ **Hinglish AI Receptionist** | Real-time Hinglish voice agent over WebRTC | `React` `FastAPI` `Pipecat` `Groq` | ![](https://img.shields.io/badge/SHIPPED-00cfff?style=flat-square&labelColor=003366) |
-| 📓 **Data Science Learning** | Notebooks covering the data science workflow: analysis, visualization, ML | `Python` `Jupyter` | ![](https://img.shields.io/badge/ONGOING-00cfff?style=flat-square&labelColor=003366) |
+| 🔐 **Secure AI Gateway** | OWASP-aligned security pipeline for LLM/RAG/agent apps with red-team suite | `Python` `Pytest` `Docker` | ![](https://img.shields.io/badge/SHIPPED-00ff9d?style=flat-square&labelColor=020b18) |
+| 🗣️ **Hinglish AI Receptionist** | Real-time Hinglish voice agent over WebRTC | `React` `FastAPI` `Pipecat` `Groq` | ![](https://img.shields.io/badge/SHIPPED-00ff9d?style=flat-square&labelColor=020b18) |
+| 📓 **Data Science Learning** | Notebooks covering the data science workflow: analysis, visualization, ML | `Python` `Jupyter` | ![](https://img.shields.io/badge/ONGOING-7b2ff7?style=flat-square&labelColor=020b18) |
 | 🤖 **AI Chatbot + RAG** | Production-ready chatbot with retrieval-augmented generation | `LangChain` `FAISS` `OpenAI` | ![](https://img.shields.io/badge/IN_PROGRESS-00cfff?style=flat-square&labelColor=003366) |
 | 📈 **Trading AI / Quant Bot** | Algorithmic trading engine with backtesting & live signals | `Python` `TA-Lib` `Alpaca` | ![](https://img.shields.io/badge/IN_PROGRESS-00cfff?style=flat-square&labelColor=003366) |
 | 🐍 **Advanced Python** | Advanced OOP, data structures & algorithms | `Python` `Jupyter` | ![](https://img.shields.io/badge/IN_PROGRESS-00cfff?style=flat-square&labelColor=003366) |
 | 🗃️ **SQL Batch Practice** | Real-world queries, joins, window functions | `MySQL` `SQL` | ![](https://img.shields.io/badge/IN_PROGRESS-00cfff?style=flat-square&labelColor=003366) |
 | 🧠 **AI Crash Course** | Educational GenAI content for startup teams | `Python` `AI Tools` | ![](https://img.shields.io/badge/IN_PROGRESS-00cfff?style=flat-square&labelColor=003366) |
-| 🔤 **Encoding** | Data encoding experiments for ML preprocessing | `Python` | ![](https://img.shields.io/badge/EXPERIMENT-00cfff?style=flat-square&labelColor=003366) |
-| 🗂️ **Data Set** | Dataset handling & preparation scripts | `Python` | ![](https://img.shields.io/badge/EXPERIMENT-00cfff?style=flat-square&labelColor=003366) |
-| 🛠️ **VS Code Python Tutorial** | Python setup and practice in VS Code | `Python` `Jupyter` | ![](https://img.shields.io/badge/PRACTICE-00cfff?style=flat-square&labelColor=003366) |
+| 🔤 **Encoding** | Data encoding experiments for ML preprocessing | `Python` | ![](https://img.shields.io/badge/EXPERIMENT-7b2ff7?style=flat-square&labelColor=020b18) |
+| 🗂️ **Data Set** | Dataset handling & preparation scripts | `Python` | ![](https://img.shields.io/badge/EXPERIMENT-7b2ff7?style=flat-square&labelColor=020b18) |
+| 🛠️ **VS Code Python Tutorial** | Python setup and practice in VS Code | `Python` `Jupyter` | ![](https://img.shields.io/badge/PRACTICE-7b2ff7?style=flat-square&labelColor=020b18) |
 
 </div>
 
@@ -310,7 +355,7 @@ flowchart LR
 
 <!-- ═══════════════ DS WORKFLOW ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+ds_workflow.ipynb" alt="workflow"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=520&height=40&lines=%3E_+ds_workflow.ipynb" alt="workflow"/>
 </div>
 
 ```python
@@ -335,7 +380,7 @@ print(df.to_string(index=False))
 
 <!-- ═══════════════ ROADMAP ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+roadmap+--future" alt="roadmap"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=460&height=40&lines=%3E_+roadmap+--future" alt="roadmap"/>
 
 <br/>
 
@@ -396,21 +441,21 @@ print(df.to_string(index=False))
 
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=460&height=40&lines=%3E_+stats+--github" alt="stats"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=460&height=40&lines=%3E_+stats+--github" alt="stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourabhbagda24&show_icons=true&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&icon_color=00cfff&text_color=ffffff&count_private=true&border_radius=16" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sourabhbagda24&show_icons=true&theme=radical&hide_border=false&bg_color=020b18&title_color=00F0FF&icon_color=7b2ff7&text_color=ffffff&border_color=00cfff&count_private=true&border_radius=16" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbagda24&layout=compact&theme=blue-green&hide_border=true&bg_color=020b18&title_color=00cfff&text_color=ffffff&langs_count=8&border_radius=16" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhbagda24&layout=compact&theme=radical&hide_border=false&bg_color=020b18&title_color=00F0FF&text_color=ffffff&border_color=00cfff&langs_count=8&border_radius=16" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhbagda24&theme=blue-green&hide_border=true&background=020b18&stroke=00cfff&ring=00cfff&fire=00cfff&currStreakLabel=00cfff&border_radius=16"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhbagda24&theme=radical&hide_border=false&background=020b18&stroke=00cfff&ring=7b2ff7&fire=00F0FF&currStreakLabel=00F0FF&border=00cfff&border_radius=16"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhbagda24&bg_color=020b18&color=00cfff&line=00cfff&point=0080ff&area_color=003366&area=true&hide_border=true&custom_title=Sourabh's%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabhbagda24&bg_color=020b18&color=00F0FF&line=00cfff&point=7b2ff7&area_color=003366&area=true&hide_border=true&custom_title=Sourabh's%20Contribution%20Activity" width="100%"/>
 
 <br/>
 
@@ -422,7 +467,7 @@ print(df.to_string(index=False))
 
 <!-- ═══════════════ GAMES & ANIMATIONS ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=620&height=40&lines=%3E_+games+%26+animations+--play" alt="games"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=620&height=40&lines=%3E_+games+%26+animations+--play" alt="games"/>
 
 <sub>🕹️ &nbsp;All animations are live and auto-updating via GitHub Actions</sub>
 
@@ -468,10 +513,6 @@ print(df.to_string(index=False))
  🔥 PyTorch         ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱  65/100  ★★★☆☆
  ☁️ AWS / GCP       ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱  60/100  ★★★☆☆
  🐳 Docker / MLOps  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  50/100  ★★★☆☆
-
- 🏗️ DATA ENGINEERING (Internship Stack)
- ⚡ PySpark / Databricks ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱  ★★★☆☆
- ☁️ Azure Data Factory   ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱  ★★★☆☆
 
  🏅 SPECIAL SKILLS
  🕸️ Agentic AI Systems  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱  ★★★★☆
@@ -535,7 +576,7 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=500&height=40&lines=%3E_+portfolio+--preview" alt="portfolio"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&height=40&lines=%3E_+portfolio+--preview" alt="portfolio"/>
 
 <br/>
 
@@ -557,7 +598,7 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- ═══════════════ CODING PROFILES ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=520&height=40&lines=%3E_+profiles+--verified" alt="profiles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=520&height=40&lines=%3E_+profiles+--verified" alt="profiles"/>
 
 <br/>
 
@@ -571,7 +612,7 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00CFFF&center=true&vCenter=true&width=420&height=40&lines=%3E_+connect+--now" alt="connect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=420&height=40&lines=%3E_+connect+--now" alt="connect"/>
 
 <br/>
 
@@ -583,12 +624,12 @@ Shell        █░░░░░░░░░░░░░░░░░░░░    
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=00CFFF&center=true&vCenter=true&width=750&height=30&lines=%22The+best+way+to+predict+the+future+is+to+build+it+with+AI.%22;%22Build+AI+that+thinks.+Write+code+that+ships.%22+🤖⚡" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=400&size=15&duration=4000&pause=2000&color=00F0FF&center=true&vCenter=true&width=750&height=30&lines=%22The+best+way+to+predict+the+future+is+to+build+it+with+AI.%22;%22Build+AI+that+thinks.+Write+code+that+ships.%22+🤖⚡" alt="Quote"/>
 
 <br/>
 
 *Stay curious. Keep building. Ship AI.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:003366,100:020b18&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:7b2ff7,100:020b18&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
